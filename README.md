@@ -43,9 +43,7 @@ Open the folder in VS Code (or your preferred editor).
 Right-click index.html → Open with Live Server
 
 
-📸 Screenshots
-
-Add more screenshots here if needed:
+📸 Screenshot
 
 ![Preview](./imgs/ss.png)
 
