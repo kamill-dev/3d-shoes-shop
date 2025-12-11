@@ -42,6 +42,8 @@ Open the folder in VS Code (or your preferred editor).
 
 Right-click index.html → Open with Live Server
 
+              note:Download live server extensions From extensions
+
 
 📸 Screenshot
 
