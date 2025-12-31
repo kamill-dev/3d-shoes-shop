@@ -965,7 +965,7 @@ body::-webkit-scrollbar {
     overflow: hidden;
 }
 .product-cont > :not(.scrollImage-cont, .scrollImage-cont2)::after {
-    content: "velzck";
+    content: "kamil";
     position: absolute;
     top: 45%;
     left: -15%;
@@ -1811,7 +1811,7 @@ body::-webkit-scrollbar {
 .socialIcons #in {
     grid-column: 2/3;
 }
-.velzck-cont {
+.kamil-cont {
     position: absolute;
     display: flex;
     justify-content: center;
@@ -1822,7 +1822,7 @@ body::-webkit-scrollbar {
     -webkit-transform: translateY(-5rem);
     -moz-transform: translateY(-5rem);
 }
-.velzck {
+.kamil {
     width: 75%;
     height: 3rem;
     color: #949494;
